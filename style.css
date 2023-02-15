@@ -3,7 +3,6 @@
     --grey: #f0eef1;
     --black: #050505;
     --red: #ff7070;
-    
     --light-red: #ff9c9c;
     --border-radius: 8px;
     --spacing-xs: 5px;
@@ -45,7 +44,7 @@ body {
 button,
 input {
   border: none;
-  color: inherit;
+  color: slategrey;
   font-family: inherit;
   font-size: inherit;
   font-weight: inherit;
@@ -82,7 +81,7 @@ input[type='number'] {
 }
 
 .btn-steel-blue {
-  background-color: steelblue;
+  background-color: whitesmoke;
 }
 
 .btn-light-red {
@@ -93,6 +92,7 @@ input[type='number'] {
 
 .header {
   background-color: steelblue;
+  color: white;
   box-shadow: var(--shadow);
 }
 
