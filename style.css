@@ -3,7 +3,7 @@
     --grey: #f0eef1;
     --black: #050505;
     --red: #ff7070;
-    --light-green: #9fff9c;
+    
     --light-red: #ff9c9c;
     --border-radius: 8px;
     --spacing-xs: 5px;
@@ -33,7 +33,7 @@ html {
 
 body {
   background-color: ghostwhite;
-  color: var(--black);
+  color: black;
   font-family: 'Poppins', sans-serif;
   font-size: 18px;
   font-weight: 500;
@@ -81,8 +81,8 @@ input[type='number'] {
   font-weight: 600;
 }
 
-.btn-light-green {
-  background-color: var(--light-green);
+.btn-steel-blue {
+  background-color: steelblue;
 }
 
 .btn-light-red {
